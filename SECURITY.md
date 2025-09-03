@@ -2,8 +2,6 @@
 
 ## Supported Versions
 
-We release patches for security vulnerabilities for the following versions:
-
 | Version | Supported          |
 | ------- | ------------------ |
 | 1.x.x   | :white_check_mark: |
@@ -11,23 +9,38 @@ We release patches for security vulnerabilities for the following versions:
 
 ## Reporting a Vulnerability
 
-If you discover a security vulnerability within this project, please send an email to kiliaanv2@gmail.com. All security vulnerabilities will be promptly addressed.
+We take security vulnerabilities seriously. If you discover a security vulnerability, please follow these steps:
 
-Please do not publicly disclose the issue until it has been addressed by the team.
+1. **Do not** open a public issue
+2. Email us at: iamthatiamresearch@gmail.com
+3. Include as much detail as possible about the vulnerability
+4. We will respond within 48 hours
+5. We will work with you to resolve the issue
 
 ## Security Measures
 
-We take security seriously and have implemented the following measures:
+This project implements the following security measures:
 
-1. All dependencies are regularly updated to address known vulnerabilities
-2. Code is reviewed before merging to the main branch
-3. Branch protection rules are enabled to prevent force pushes
-4. Automated security scanning is integrated into our CI/CD pipeline
+- 🔒 **Dependabot**: Automated dependency updates and security alerts
+- 🔍 **CodeQL**: Static analysis security testing
+- 🔐 **Secret Scanning**: Automatic detection of exposed secrets
+- 📦 **Dependency Scanning**: Vulnerability scanning for dependencies
+- 🚨 **Security Advisories**: Coordinated disclosure of security issues
+
+## Security Best Practices
+
+- Keep dependencies up to date
+- Use strong, unique passwords
+- Enable two-factor authentication
+- Review code changes before merging
+- Report security issues responsibly
 
 ## Contact
 
-For any security-related questions or concerns, please contact:
-- Email: kiliaanv2@gmail.com
-- GitHub: [@BoozeLee](https://github.com/BoozeLee)
+For security-related questions or concerns:
+- 📧 Email: iamthatiamresearch@gmail.com
+- 🔒 Security Issues: Use private vulnerability reporting
+- 💬 Discussions: [GitHub Discussions](https://github.com/Bakery-street-projct/Polymorphic-Research-Framework/discussions)
 
-We appreciate your efforts to keep our project secure.
+---
+*Last updated: wo  3 sep 2025 15:46:39 CEST*
